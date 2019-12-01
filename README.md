@@ -19,7 +19,11 @@ Part of their clientele would be willing to pay to rent equipped tables, made av
 
 The application in question will not allow to make lives outside this context. You will need to be present at a YouNight affiliate site to use YouNight.
 
+Tell us how you plan on bringing it to life
 -----------------------------------------
+
+We are currently at the idea stage. We think that only Google can afford to hope for such a success of this application, thanks to the popularity of Google Maps that will naturally lead people to these new features, offered by the application. But who will lead them gradually to take in hand other services less known to the general public such as Google Measure and ARcore.
+
 
 -Tell us about you. 
 --------------------------------------
