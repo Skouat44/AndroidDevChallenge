@@ -22,8 +22,9 @@ The application in question will not allow to make lives outside this context. Y
 Tell us how you plan on bringing it to life
 -----------------------------------------
 
-We are currently at the idea stage. We think that only Google can afford to hope for such a success of this application, thanks to the popularity of Google Maps that will naturally lead people to these new features, offered by the application. But who will lead them gradually to take in hand other services less known to the general public such as Google Measure and ARcore.
+I plan to give life to the idea by making a big wave of communication with private institutions by presenting them with all the potential benefits they could have in return. You have to be informed that using the YouNight app means increasing their performance in terms of audience attendance, visibility, communication and turnover.
 
+I also envisage a big wave of communication with a young public (18 - 45 years old) to inform them that it is now possible to know in a few click what are the evenings in the neighborhood, which is there inside, what is the atmosphere of the evening etc etc ... ..
 
 -Tell us about you. 
 --------------------------------------
