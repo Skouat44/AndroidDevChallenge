@@ -150,3 +150,4 @@ To join the users can pass via a Scan QR code.
 
 The institution can at this time have him signed a charter of compliance with the rules.
 The users who join will then appear in the list of choice of the cameras of the private institution.
+
