@@ -19,7 +19,12 @@ Part of their clientele would be willing to pay to rent equipped tables, made av
 
 The application in question will not allow to make lives outside this context. You will need to be present at a YouNight affiliate site to use YouNight.
 
+Tell us how you plan on bringing it to life
 -----------------------------------------
+
+I plan to give life to the idea by making a big wave of communication with private institutions by presenting them with all the potential benefits they could have in return. You have to be informed that using the YouNight app means increasing their performance in terms of audience attendance, visibility, communication and turnover.
+
+I also envisage a big wave of communication with a young public (18 - 45 years old) to inform them that it is now possible to know in a few click what are the evenings in the neighborhood, which is there inside, what is the atmosphere of the evening etc etc ... ..
 
 -Tell us about you. 
 --------------------------------------
